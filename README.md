@@ -1,4 +1,10 @@
-## Follow This Simple Code To Generate a Calendar for Your Personal NITRIS Schedule!
+### Follow This Simple Code To Generate a Calendar(Google,Outlook,iCloud Calendar etc) for Your Personal NITRIS Schedule!
+
+The Current Stage of this Project Uses a Jupyter Notebook File which should run with any preferred IDE and an updated version of python with the ipykernel
+
+### Steps to Run:
+
+![Copy the Whole Text of Registered Courses](courses.png)
 
 ### Connect with me:
 
