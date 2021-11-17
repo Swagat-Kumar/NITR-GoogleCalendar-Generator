@@ -1,10 +1,18 @@
-### Follow This Simple Code To Generate a Calendar(Google,Outlook,iCloud Calendar etc) for Your Personal NITRIS Schedule!
+### Follow This Simple Code To Generate a Calendar File (Google,Outlook,iCloud Calendar etc) for Your Personal NITRIS Schedule!
 
-The Current Stage of this Project Uses a Jupyter Notebook File which should run with any preferred IDE and an updated version of python with the ipykernel
+The Current Stage of this Project uses a Jupyter Notebook File which should run with any preferred IDE and an updated version of python with the ipykernel
 
 ### Steps to Run:
 
-![Copy the Whole Text of Registered Courses](courses.png)
+1. Copy the Whole Text of Registered Courses for the first input.
+   ![Copy the Whole Text of Registered Courses](courses.png)
+
+2. Copy the Whole Text of Timetable for the second input.
+   ![Copy the Whole Text of TimeTable](timetable.png)
+
+3. Run the Remaining Program, A File 'ClassSchedule.ics' will be created.
+
+4. Simply import the file to any of our Calendar App
 
 ### Connect with me:
 
