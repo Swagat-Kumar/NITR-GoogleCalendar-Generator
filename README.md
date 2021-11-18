@@ -25,7 +25,8 @@ The current stage of this project uses a Jupyter Notebook file which should run 
 ![Web View](result1.png)
 Google Calendar Web App
 
-![Mobile View](result2.jpeg width=300)
+![Mobile View](result2.jpeg){:class="img-responsive"}
+
 Google Calendar Mobile App
 
 ### Connect with me:
