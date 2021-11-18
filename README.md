@@ -20,6 +20,11 @@ The current stage of this project uses a Jupyter Notebook file which should run 
 
 4. Simply import the file to any of your Calendar App.
 
+### Results
+
+    ![Web View](result1.png)
+    ![Mobile View](result2.jpeg)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
