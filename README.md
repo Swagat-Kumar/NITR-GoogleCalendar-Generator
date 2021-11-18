@@ -23,7 +23,10 @@ The current stage of this project uses a Jupyter Notebook file which should run 
 ### Results
 
 ![Web View](result1.png)
-![Mobile View](result2.jpeg)
+Google Calendar Web App
+
+![Mobile View](result2.jpeg| width=300)
+Google Calendar Mobile App
 
 ### Connect with me:
 
